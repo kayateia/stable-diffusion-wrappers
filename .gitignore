@@ -1,0 +1,7 @@
+env
+i2i/
+t2i/
+log*.txt
+.DS_Store
+*.png
+*.pxd
